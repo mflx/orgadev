@@ -16,7 +16,7 @@ intro:
     Das offene Format des BarCamps, auch Unkonferenz genannt, ist eine offene
     Tagung mit offenen Workshops, deren Inhalte und Ablauf von den Teilnehmern
     zu Beginn der Tagung selbst entwickelt und im weiteren Verlauf gestaltet
-    werden. 
+    werden. Mehr dazu: https://www.orga.dev/post/was-ist-ein-barcamp/ 
 
 products:
   - image: img/illustrations-coffee.svg
@@ -31,9 +31,6 @@ products:
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
 values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: Unsere Werte
+  text: Austausch auf Augenhöhe
 ---
