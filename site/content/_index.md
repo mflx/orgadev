@@ -20,7 +20,7 @@ intro:
 
 
 
-   ## The Rules of BarCamp
+   The Rules of BarCamp
 
     - 1st Rule: You do talk about BarCamp.
     - 2nd Rule: You do blog about BarCamp.
