@@ -1,9 +1,10 @@
 ---
 title: Was ist ein BarCamp
-date: 2020-07-20T15:04:10.000Z
+date: 2020-07-20T13:23:30.879Z
 description: Was ist überhaupt ein BarCamp, was passiert da eigentlich?
 image: /img/blog-chemex.jpg
---- 
+---
+ 
 
 Ein BarCamp, oder auch Un-Conference genannt, ist in der Regel ein Community-organisiertes Event zum fachlichen Austausch. Großer Wert wird hierbei auf Beteiligung gelegt. 
 
